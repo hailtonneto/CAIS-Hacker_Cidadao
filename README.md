@@ -40,4 +40,4 @@ Este projeto visa integrar tecnologia, segurança e acessibilidade, promovendo u
 
 - **Slide do Pitch:** [Canva](https://www.canva.com/design/DAGnAWbXc8E/r3Gs3kI1lnrGCjKevswTsA/edit?utm_content=DAGnAWbXc8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Roteiro do Pitch:** [Docs](https://docs.google.com/document/d/1UwsSwSbW5KeNIlgzx-e4YPytqdl4EEkArsznC8cGMQI/edit?usp=sharing)
-- **Levatamento de Preços:** [Docs](https://docs.google.com/spreadsheets/d/1UwsSwSbW5KeNIlgzx-e4YPytqdl4EEkArsznC8cGMQI/edit?gid=0#gid=0)
+- **Levatamento de Preços:** [Sheets](https://docs.google.com/spreadsheets/d/1UwsSwSbW5KeNIlgzx-e4YPytqdl4EEkArsznC8cGMQI/edit?gid=0#gid=0)
