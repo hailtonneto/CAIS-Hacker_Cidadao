@@ -50,5 +50,7 @@ Este projeto visa integrar tecnologia, segurança e acessibilidade, promovendo u
 | Nome | GitHub | Linkedin | Foto |
 |------|--------|----------|------|
 | **Hailton de Melo Lima Neto** | [hailtonneto](https://github.com/hailtonneto) | [Hailton Neto](https://www.linkedin.com/in/hailton-neto-2a81a1196/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/130097508?v=" width="80px;" alt="Gabriel"/> |
+| **Henrique Silva de Lima** | [henriqesl](https://github.com/henriqesl) | [Henrique Silva](https://www.linkedin.com/in/henrique-slima/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/163488602?v=4" width="80px;" alt="Gabriel"/> |
 | **Lucas Chaves Sampaio Ferrer** | [lucaschavessf](https://github.com/lucaschavessf) | [Lucas Chaves](https://www.linkedin.com/in/lucaschavesf/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/153633041?v=4" width="80px;" alt="Luccas"/> |
+| **Maycon Romario Dos Santos** | [sromario](https://github.com/sromario) | [Maycon Romario 🦎](https://www.linkedin.com/in/maycon-romario-🦎-9863bb24a/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/83521255?v=4" width="80px;" alt="Messias"/> |
 | **Messias Daniel Ferreira da Silva Filho** | [Messias-Daniel](https://github.com/Messias-Daniel) | [Messias Daniel](https://www.linkedin.com/in/messias-daniel-1245a3304/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/167141068?v=4" width="80px;" alt="Messias"/> |
