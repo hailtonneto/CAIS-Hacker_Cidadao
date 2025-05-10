@@ -42,3 +42,13 @@ Este projeto visa integrar tecnologia, segurança e acessibilidade, promovendo u
 - **Slide do Pitch:** [Canva](https://www.canva.com/design/DAGnAWbXc8E/r3Gs3kI1lnrGCjKevswTsA/edit?utm_content=DAGnAWbXc8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Roteiro do Pitch:** [Docs](https://docs.google.com/document/d/1UwsSwSbW5KeNIlgzx-e4YPytqdl4EEkArsznC8cGMQI/edit?usp=sharing)
 - **Levatamento de Preços:** [Sheets](https://docs.google.com/spreadsheets/d/1UwsSwSbW5KeNIlgzx-e4YPytqdl4EEkArsznC8cGMQI/edit?gid=0#gid=0)
+
+---
+
+## 🌐 Autores
+
+| Nome | GitHub | Linkedin | Foto |
+|------|--------|----------|------|
+| **Hailton de Melo Lima Neto** | [hailtonneto](https://github.com/hailtonneto) | [Hailton Neto](https://www.linkedin.com/in/hailton-neto-2a81a1196/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/130097508?v=" width="80px;" alt="Gabriel"/> |
+| **Lucas Chaves Sampaio Ferrer** | [lucaschavessf](https://github.com/lucaschavessf) | [Lucas Chaves](https://www.linkedin.com/in/lucaschavesf/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/153633041?v=4" width="80px;" alt="Luccas"/> |
+| **Messias Daniel Ferreira da Silva Filho** | [Messias-Daniel](https://github.com/Messias-Daniel) | [Messias Daniel](https://www.linkedin.com/in/messias-daniel-1245a3304/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/167141068?v=4" width="80px;" alt="Messias"/> |
